@@ -1,6 +1,7 @@
 # Olá, sou Allexander, mas pode me chamar de Allex! 👋
 
-![Badge HTML](https://img.shields.io/badge/HTML-5-orange) ![Badge CSS](https://img.shields.io/badge/CSS-3-blue) ![Badge JS](https://img.shields.io/badge/JavaScript-Learning-yellow)
+![Badge HTML](https://img.shields.io/badge/HTML-5-orange) ![Badge CSS](https://img.shields.io/badge/CSS-3-blue) ![Badge JS](https://img.shields.io/badge/JavaScript-Learning-yellow) ![Next.js](https://img.shields.io/badge/Next.js-Learning-yellow)
+
 
 Atualmente sou estudante de **desenvolvimento front-end**, Entusiasta de tecnologia e de criar interfaces com código. Estou em busca da minha primeira oportunidade na área, aprendendo **HTML**, **CSS** e explorando **JavaScript** e **Next.js**.
 
