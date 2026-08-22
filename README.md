@@ -8,8 +8,8 @@ Atualmente sou estudante de **desenvolvimento front-end**, entusiasta de tecnolo
 
 ## 📊 Estatísticas GitHub
 
-![all3x-martins's Stats](https://github-readme-stats-eight-chi-51.vercel.app//api?username=all3x-martins&theme=monokai&hide=issues&rank_icon=github&card_width=300px&line_height=20&show_icons=true&hide_border=true&count_private=true)
-![all3x-martins's Top Languages](https://github-readme-stats-eight-chi-51.vercel.app//api/top-langs/?username=all3x-martins&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+![all3x-martins's Stats](https://github-readme-stats-eight-chi-51.vercel.app/api?username=all3x-martins&theme=monokai&hide=issues&rank_icon=github&card_width=300px&line_height=20&show_icons=true&hide_border=true&count_private=true)
+![all3x-martins's Top Languages](https://github-readme-stats-eight-chi-51.vercel.app/api/top-langs/?username=all3x-martins&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 ## 🔍 O que você encontra aqui
 
