@@ -1,44 +1,30 @@
-# Olá, sou Allexander, mas pode me chamar de Allex! 👋
+# Olá, sou Allex
 
-![Badge HTML](https://img.shields.io/badge/HTML-5-orange) ![Badge CSS](https://img.shields.io/badge/CSS-3-blue) ![Badge JS](https://img.shields.io/badge/JavaScript-Learning-yellow) ![Next.js](https://img.shields.io/badge/Next.js-Learning-yellow)
+Estudante de **Segurança da Informação**, atualmente iniciando minha jornada na área.
 
-Atualmente sou estudante de **desenvolvimento front-end**, entusiasta de tecnologia e apaixonado por criar interfaces com código. Estou em busca da minha primeira oportunidade na área, aprendendo **HTML**, **CSS** e explorando **JavaScript** e **Next.js**.
+Estou construindo meus fundamentos em computação e explorando diferentes áreas da segurança para entender onde quero me especializar.
 
-**Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.**
+Anteriormente, meus estudos eram voltados para desenvolvimento Front-end. Agora estou direcionando minha formação para Segurança da Informação.
 
-## 📊 Estatísticas GitHub
+## Atualmente
 
-![all3x-martins's Stats](https://github-readme-stats-eight-chi-51.vercel.app/api?username=all3x-martins&theme=monokai&hide=issues&rank_icon=github&card_width=300px&line_height=20&show_icons=true&hide_border=true&count_private=true)
-![all3x-martins's Top Languages](https://github-readme-stats-eight-chi-51.vercel.app/api/top-langs/?username=all3x-martins&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+Estou no início da minha jornada de estudos e, neste momento, meu foco é construir uma base sólida antes de me especializar.
 
-## 🔍 O que você encontra aqui
+Áreas que pretendo explorar:
 
-- **Projetos Responsivos**: Layouts que se adaptam perfeitamente a diferentes dispositivos
-- **Interfaces Modernas**: Designs limpos, funcionais e focados na experiência do usuário
-- **Experimentos com JS**: Pequenos projetos explorando funcionalidades e lógica de programação
-- **Estudos de Caso**: Documentação do meu processo de aprendizado e evolução
+- Sistemas operacionais
+- Redes de computadores
+- Linux
+- Windows
+- Programação e scripting
+- Fundamentos de Segurança da Informação
+- Segurança ofensiva
+- Cyber Threat Intelligence
 
-## 👨‍💻 Sobre Mim
+## GitHub
 
-- 🎓 Estudante de Front-End em constante evolução
-- 💻 Foco em layouts funcionais e responsivos
-- 🌱 Aprendendo JavaScript e Next.js
-- 🎨 Interesse em UI/UX Design
-- 🎮 Hobby: videogames (minha pausa criativa!)
-- ☕ Movido a café e curiosidade
+Este perfil será utilizado para documentar minha evolução, estudos, laboratórios e futuros projetos em Segurança da Informação.
 
-## 🎯 Próximos Passos
+## Contato
 
-![React](https://img.shields.io/badge/React-Planning-lightgrey) ![TypeScript](https://img.shields.io/badge/TypeScript-Planning-lightgrey) ![Node.js](https://img.shields.io/badge/Node.js-Future-lightgrey)
-
-## 🌐 Conecte-se comigo
-
-<div>
-  <a href="https://www.linkedin.com/in/allex-martins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:allex.martins@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-</div>
-
----
-
-💼 **Estou aberto a oportunidades de estágio, projetos colaborativos e networking!**
-📧 **Entre em contato comigo através dos links acima - vamos construir algo incrível juntos!**
+[📧 E-mail](mailto:allex.martins@pm.me)
